@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822732448233",
+    "project_id": "meme-bce2f",
+    "storage_bucket": "meme-bce2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822732448233:android:a371f50da57443d07a2b78",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ih2ruEyhPZ1R5t7Q6i9MiFaPQE-9KzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
